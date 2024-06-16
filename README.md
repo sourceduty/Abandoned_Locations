@@ -5,6 +5,7 @@
 #
 ### 10550 Simcoe st., Port Perry, Ontario, Canada
 
+```
 1. Convenience Store with Gas Station:
    
    - Revitalize the existing structure into a modern convenience store.
@@ -53,6 +54,7 @@
    - Design apartments or townhouses with modern amenities.
    - Include commercial spaces for small offices, shops, or cafes on the ground floor.
    - Create a vibrant community hub with shared spaces like gardens and recreational areas.
+```
 
 Steps to Consider Before Development:
 
