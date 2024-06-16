@@ -13,42 +13,42 @@
    - Offer a variety of snacks, beverages, and essential items.
    - Include services such as an ATM, lottery tickets, and a small seating area.
 
-3. Community Center:
+2. Community Center:
    
    - Develop a multi-purpose community center.
    - Provide spaces for local events, meetings, and recreational activities.
    - Include a gymnasium, classrooms, and a community kitchen.
    - Offer programs for all age groups, from children to seniors.
 
-5. Cafe or Small Restaurant:
+3. Cafe or Small Restaurant:
    
    - Open a cozy cafe or a small family restaurant.
    - Use the scenic surroundings to create an inviting outdoor seating area.
    - Serve locally sourced food and beverages.
    - Host events like live music, trivia nights, and community gatherings.
 
-7. Retail Shop:
+4. Retail Shop:
    
    - Establish a specialty retail shop, such as a local produce market or crafts store.
    - Focus on selling unique, locally made products.
    - Create a space for workshops and demonstrations.
    - Collaborate with local artisans and farmers.
 
-9. Service Station:
+5. Service Station:
     
    - Convert the site into a service station offering car repairs, tire services, and other automotive needs.
    - Include a waiting area with refreshments and Wi-Fi for customers.
    - Offer additional services like car wash and detailing.
    - Provide environmentally friendly options such as recycling oil and batteries.
 
-11. Eco-Friendly Park and Rest Area:
+6. Eco-Friendly Park and Rest Area:
     
    - Transform the space into a small park or rest area with eco-friendly features.
    - Install solar panels and EV charging stations.
    - Landscape with native plants and trees to promote local wildlife.
    - Include picnic areas, walking trails, and informative displays about sustainability.
 
-11. Mixed-Use Development:
+7. Mixed-Use Development:
     
    - Develop a mixed-use space combining residential units with commercial areas.
    - Design apartments or townhouses with modern amenities.
