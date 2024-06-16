@@ -8,6 +8,8 @@
 <details><summary>10550 Simcoe st., Port Perry, Ontario, Canada</summary>
 <br>
 
+![Abandoned Gas Station](https://github.com/sourceduty/Abandoned_Locations/assets/123030236/ed53f603-efb5-47df-b208-4ff1d6f09fd0)
+
 10550 Simcoe st., Port Perry, Ontario, Canada
 
 ```
@@ -68,6 +70,39 @@ Steps to Consider Before Development:
    - Develop a detailed business plan and secure necessary funding.
    - Plan for sustainable development practices to minimize environmental impact.
 ```
+
+<br>
+</details>
+<details><summary>538 S Main St, Akron, OH 44311, USA</summary>
+<br>
+
+![538 S Main St, Akron, OH 44311, USA](https://github.com/sourceduty/Abandoned_Locations/assets/123030236/673377db-e875-4c8c-81ef-614cec992acc)
+
+Deciding what to build to replace an abandoned building involves considering the needs and preferences of the local community, as well as broader urban development goals. Here are some potential options for 538 S Main St, Akron, Ohio:
+
+1. Community Center: A space for local residents to gather, host events, and participate in various programs. This can include a gym, meeting rooms, and spaces for classes or workshops.
+
+2. Mixed-Use Development: Combining residential, commercial, and office spaces can attract a variety of people and businesses, fostering a vibrant neighborhood.
+
+3. Affordable Housing: Addressing housing shortages and providing affordable living options can greatly benefit the community.
+
+4. Green Space or Park: Creating a public park or green space can improve the quality of life, provide recreational opportunities, and enhance the urban environment.
+
+5. Retail and Dining Hub: Developing a space with shops, cafes, and restaurants can stimulate local economy and create a lively social environment.
+
+6. Educational Facility: A school, library, or learning center can serve the community by providing educational resources and opportunities.
+
+7. Health and Wellness Center: A facility offering medical services, fitness classes, and wellness programs can promote health in the community.
+
+8. Cultural or Arts Center: A venue for arts, culture, and performances can enrich the community’s cultural life and attract visitors.
+
+To determine the best option, it would be helpful to:
+- Conduct surveys and hold community meetings to gather input from local residents.
+- Assess the current and future needs of the area.
+- Consider the economic feasibility and potential funding sources.
+- Collaborate with city planners, local businesses, and community organizations.
+
+Engaging with stakeholders and considering these factors will help ensure that the new development meets the needs and aspirations of the Akron community.
 
 <br>
 </details>
