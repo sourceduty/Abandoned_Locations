@@ -113,7 +113,7 @@ Engaging with stakeholders and considering these factors will help ensure that t
 <details><summary>Fordlândia, Brazil</summary>
 <br>
 
-![Fordlândia, Brazil](https://github.com/sourceduty/Abandoned_Locations/assets/123030236/4aef0861-8ffa-4036-96ce-99696ba0a42d)
+![Fordlândia, Brazil](https://github.com/sourceduty/Abandoned_Locations/assets/123030236/1373dcb0-790a-43ab-9801-01c34dc2b2a9)
 
 Replacing the abandoned property of Fordlândia in Aveiro, State of Pará, Brazil, requires careful consideration of various factors including economic viability, environmental impact, and community benefits.
 
