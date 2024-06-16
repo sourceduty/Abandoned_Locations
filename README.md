@@ -78,9 +78,11 @@ Steps to Consider Before Development:
 
 ![538 S Main St, Akron, OH 44311, USA](https://github.com/sourceduty/Abandoned_Locations/assets/123030236/673377db-e875-4c8c-81ef-614cec992acc)
 
-Deciding what to build to replace an abandoned building involves considering the needs and preferences of the local community, as well as broader urban development goals. Here are some potential options for 538 S Main St, Akron, Ohio:
+Deciding what to build to replace an abandoned building involves considering the needs and preferences of the local community, as well as broader urban development goals.
 
 ```
+Here are some potential options for 538 S Main St, Akron, Ohio:
+
 1. Community Center: A space for local residents to gather, host events, and participate in various programs. This can include a gym, meeting rooms, and spaces for classes or workshops.
 
 2. Mixed-Use Development: Combining residential, commercial, and office spaces can attract a variety of people and businesses, fostering a vibrant neighborhood.
