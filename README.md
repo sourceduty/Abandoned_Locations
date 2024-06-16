@@ -3,6 +3,7 @@
 > Leveraging AI to analyze abandoned buildings and properties. 
 
 #
+### Abandoned Properties
 
 <details><summary>10550 Simcoe st., Port Perry, Ontario, Canada</summary>
 <br>
