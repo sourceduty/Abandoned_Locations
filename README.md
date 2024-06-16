@@ -1,4 +1,4 @@
-![Abandoned Ontario Gas Station](https://github.com/sourceduty/Abandoned_Locations/assets/123030236/412d012f-886e-4f19-a403-2ba303524d64)
+![Abandoned](https://github.com/sourceduty/Abandoned_Locations/assets/123030236/ba38924b-f70a-47c9-aa0c-2bda1fae91b1)
 
 > Leveraging AI to analyze abandoned buildings and properties. 
 
