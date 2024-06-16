@@ -80,6 +80,7 @@ Steps to Consider Before Development:
 
 Deciding what to build to replace an abandoned building involves considering the needs and preferences of the local community, as well as broader urban development goals. Here are some potential options for 538 S Main St, Akron, Ohio:
 
+```
 1. Community Center: A space for local residents to gather, host events, and participate in various programs. This can include a gym, meeting rooms, and spaces for classes or workshops.
 
 2. Mixed-Use Development: Combining residential, commercial, and office spaces can attract a variety of people and businesses, fostering a vibrant neighborhood.
@@ -101,8 +102,50 @@ To determine the best option, it would be helpful to:
 - Assess the current and future needs of the area.
 - Consider the economic feasibility and potential funding sources.
 - Collaborate with city planners, local businesses, and community organizations.
+```
 
 Engaging with stakeholders and considering these factors will help ensure that the new development meets the needs and aspirations of the Akron community.
+
+<br>
+</details>
+<details><summary>Fordlândia, Brazil</summary>
+<br>
+
+![Fordlândia, Brazil](https://github.com/sourceduty/Abandoned_Locations/assets/123030236/4aef0861-8ffa-4036-96ce-99696ba0a42d)
+
+Replacing the abandoned property of Fordlândia in Aveiro, State of Pará, Brazil, requires careful consideration of various factors including economic viability, environmental impact, and community benefits.
+
+```
+Here are a few suggestions:
+
+1. Eco-tourism Resort:
+   - Utilize the unique historical background and the natural surroundings to develop an eco-tourism destination.
+   - Activities can include guided tours of the old rubber plantations, bird watching, river tours, and educational programs about the Amazon rainforest.
+
+2. Research and Educational Center:
+   - Establish a research center focused on tropical agriculture, sustainable forestry, and biodiversity.
+   - Collaborate with universities and research institutions worldwide for programs and studies.
+
+3. Agroforestry Project:
+   - Implement an agroforestry system that combines agriculture and forestry to create sustainable land-use practices.
+   - Focus on crops like rubber, cocoa, coffee, and native fruits, integrating them with the preservation of native forest areas.
+
+4. Community Development Hub:
+   - Develop the area into a community center that includes housing, healthcare, and educational facilities for the local population.
+   - Promote sustainable livelihoods through vocational training and small-scale enterprises.
+
+5. Renewable Energy Plant:
+   - Utilize the land for a renewable energy project, such as a solar or bioenergy plant.
+   - Support the local community with job creation and sustainable energy solutions.
+
+6. Cultural Heritage Site:
+   - Preserve the historical buildings and structures, turning Fordlândia into a cultural heritage site.
+   - Develop museums, cultural centers, and art spaces to attract tourists and educate people about the region's history.
+
+7. Wildlife Sanctuary:
+   - Convert the area into a wildlife sanctuary to protect local flora and fauna.
+   - Create programs for conservation, research, and ecotourism to support sustainable development.
+```
 
 <br>
 </details>
