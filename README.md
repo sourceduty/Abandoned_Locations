@@ -3,7 +3,11 @@
 > Leveraging AI to analyze abandoned buildings and properties. 
 
 #
-### 10550 Simcoe st., Port Perry, Ontario, Canada
+
+<details><summary>10550 Simcoe st., Port Perry, Ontario, Canada</summary>
+<br>
+
+10550 Simcoe st., Port Perry, Ontario, Canada
 
 ```
 1. Convenience Store with Gas Station:
@@ -63,6 +67,9 @@ Steps to Consider Before Development:
    - Develop a detailed business plan and secure necessary funding.
    - Plan for sustainable development practices to minimize environmental impact.
 ```
+
+<br>
+</details>
 
 #
 ### Related Link
