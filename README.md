@@ -54,7 +54,6 @@
    - Design apartments or townhouses with modern amenities.
    - Include commercial spaces for small offices, shops, or cafes on the ground floor.
    - Create a vibrant community hub with shared spaces like gardens and recreational areas.
-```
 
 Steps to Consider Before Development:
 
@@ -63,6 +62,7 @@ Steps to Consider Before Development:
    - Consult with local authorities for zoning regulations and permits.
    - Develop a detailed business plan and secure necessary funding.
    - Plan for sustainable development practices to minimize environmental impact.
+```
 
 #
 ### Related Link
