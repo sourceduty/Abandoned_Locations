@@ -1,4 +1,4 @@
-![Abandoned](https://github.com/sourceduty/Abandoned_Locations/assets/123030236/ba38924b-f70a-47c9-aa0c-2bda1fae91b1)
+![Fuck The People](https://github.com/user-attachments/assets/e427d07a-b423-4f57-b3f7-4ab88089e54f)
 
 > Leveraging AI to analyze abandoned buildings and properties. 
 
