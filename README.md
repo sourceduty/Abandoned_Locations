@@ -171,6 +171,8 @@ Each of these options has the potential to bring significant benefits to the reg
 [Wood Builder](https://chat.openai.com/g/g-EFy1XUX9P-wood-builder)
 <br>
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
+<br>
+[Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
