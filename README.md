@@ -71,6 +71,29 @@ Steps to Consider Before Development:
    - Plan for sustainable development practices to minimize environmental impact.
 ```
 
+#
+### Property Locale
+
+Proximity to Key Amenities
+
+Port Perry is a small yet well-serviced community. The property is close to several key amenities. The nearest schools, such as Port Perry High School and R.H. Cornish Public School, are within a 5-10 minute drive, making it convenient for families. Additionally, the Port Perry Hospital is located just a short drive away, ensuring access to healthcare services. For shopping, the Port Perry downtown area, which includes grocery stores, banks, restaurants, and other services, is around 5-10 minutes by car from the property.
+
+Access to Major Highways and Transportation Routes
+
+Simcoe Street is a major road that runs through Port Perry, providing easy access to local and regional routes. The property is about 25 minutes from Highway 407, which connects to the Greater Toronto Area (GTA). Highway 7/12 is also nearby, offering routes to nearby towns like Uxbridge and Whitby. Public transportation options in Port Perry are somewhat limited, so personal vehicle use is the primary mode of travel.
+
+Distance to the City Center or Neighboring Towns
+
+The property is located just south of the core downtown area of Port Perry, around a 5-10 minute drive. Port Perry itself is about a 30-40 minute drive from major urban centers such as Whitby, Oshawa, and Ajax, offering additional amenities, shopping malls, and employment opportunities. The distance to downtown Toronto is roughly 75 km, or around an hour’s drive depending on traffic.
+
+Nearby Recreational Areas or Parks
+
+Port Perry is known for its natural beauty and outdoor recreational opportunities. The property is close to Lake Scugog, offering easy access to waterfront parks, boating, and fishing activities. The surrounding areas also include numerous hiking trails and conservation areas, such as the Nonquon Provincial Wildlife Area, which is ideal for outdoor enthusiasts. Scugog Island and various other parks and green spaces make it a great location for recreational activities.
+
+Overall Summary
+
+10550 Simcoe St. is well-positioned in Port Perry, offering convenient access to essential amenities, highways, and recreational areas. It's ideal for those who prefer a balance between small-town living and accessibility to larger urban centers. Families, in particular, will benefit from nearby schools and healthcare facilities, while outdoor lovers will appreciate the proximity to Lake Scugog and various parks.
+
 <br>
 </details>
 <details><summary>538 S Main St, Akron, OH 44311, USA</summary>
