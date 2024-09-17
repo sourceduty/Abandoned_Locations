@@ -234,6 +234,8 @@ Fordlândia is an isolated and quiet community, offering a stark contrast to urb
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 <br>
 [Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
+<br>
+[Property Locale](https://github.com/sourceduty/Property_Locale)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
